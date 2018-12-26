@@ -6,7 +6,7 @@ This is a community theme built for the Terminus terminal (https://github.com/Eu
 
 ---
 
-####From original "Hype" theme README:
+#### From original "Hype" theme README:
 
 README borrowed from (https://github.com/Eugeny/terminus-theme-hype) as well as basic file structure.
 

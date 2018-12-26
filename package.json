@@ -1,8 +1,10 @@
 {
   "name": "terminus-theme-purple-dream",
-  "version": "0.0.1,
+  "version": "0.0.1",
   "description": "Purple Dream Theme for Terminus",
-  "keywords": ["terminus-plugin"],
+  "keywords": [
+    "terminus-plugin"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --progress --color",
