@@ -8,8 +8,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --progress --color",
-    "watch": "webpack --progress --color --watch",
-    "prepublishOnly": "npm run build"
+    "watch": "webpack --progress --color --watch"
   },
   "files": [
     "dist"
